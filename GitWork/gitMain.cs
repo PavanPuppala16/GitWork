@@ -16,5 +16,9 @@ namespace GitWork
         {
             Console.WriteLine("hi");
         }
+        public static void third()
+        {
+            Console.WriteLine("hi");
+        }
     }
 }
