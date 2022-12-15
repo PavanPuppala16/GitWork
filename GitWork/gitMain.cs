@@ -12,5 +12,9 @@ namespace GitWork
         {
             Console.WriteLine("hi");
         }
+         public static void  second()
+        {
+            Console.WriteLine("hi");
+        }
     }
 }
