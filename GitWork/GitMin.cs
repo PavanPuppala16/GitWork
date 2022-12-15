@@ -20,5 +20,14 @@ namespace GitWork
         {
             Console.WriteLine("hi");
         }
+        
+        public static void Hello()
+        {
+            Console.WriteLine("hi");
+        }
+        public static void Man()
+        {
+            Console.WriteLine("hi");
+        }
     }
 }
